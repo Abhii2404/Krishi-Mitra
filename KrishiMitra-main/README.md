@@ -60,12 +60,7 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/Akshith-M-Naik/SportXchange.git](https://github.com/Akshith-M-Naik/SportXchange.git) # Replace with your actual repo URL if different
-    cd SportXchange # Or the name of your project directory
-    ```
-2.  **Install backend dependencies:**
+1.  **Install backend dependencies:**
     Navigate to the root directory of your project where `package.json` is located and run:
     ```bash
     npm install
